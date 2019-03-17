@@ -34,3 +34,14 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Custom ignore
+**/*.*.meta
+**/*.meta
+**/Plugins/**
+**/ProCore/**
+Bullet Hell Jam/Library/**
+Bullet Hell Jam/Logs/**
+Bullet Hell Jam/Packages/**
+Bullet Hell Jam/ProjectSettings/**
+Bullet Hell Jam/Temp/**
